@@ -1,4 +1,4 @@
-# RaspberryPi-TelegramBot
+# Raspberry Pi : Telegram Bot
 - sudo apt-get install python-pip
 - sudo pip install telepot
 
